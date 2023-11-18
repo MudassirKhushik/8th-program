@@ -10,4 +10,8 @@ cout<<"First Number : ";
 cin>>num1;
 cout<<"Second Number: ";
 cin>>num2;
+
+cout<<"Sum of Both the Numbers is = "<<num1+num2;
+
+return 0;
 }
