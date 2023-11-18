@@ -1,0 +1,10 @@
+//My 8th c++ program.
+//Take 2 number from the user as input and print there sum using c++
+
+#include<iostream>
+using namespace std;
+imt main(){
+int num1, num2;
+cout<<"Enter two Numbers."<<endl;
+
+}
