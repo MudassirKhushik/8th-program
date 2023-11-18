@@ -3,9 +3,9 @@
 
 #include<iostream>
 using namespace std;
-imt main(){
+int main(){
 int num1, num2;
-cout<<"Enter two Numbers."<<endl;
+cout<<"Enter Two Numbers."<<endl;
 cout<<"First Number : ";
 cin>>num1;
 cout<<"Second Number: ";
